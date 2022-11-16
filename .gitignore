@@ -1,0 +1,4 @@
+.venv/**
+.pathsum/**
+.third_run/**
+!third_run/inversetree.py
